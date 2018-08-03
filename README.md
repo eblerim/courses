@@ -9,6 +9,6 @@ As many full-time employees, I have limited time and have to be highly selective
 Despite this being a public repository on GitHub, I will not accept any pull requests. Since this is a repository of my solutions and notes, and not a community-driven effort. However, I encourage everyone to contribute in their own way by creating and sharing their own solutions and notes.
 
 
-## List of finished courses
+## Selected list of finished courses
 
 [Crafting Quality Code](./crafting_quality_code), University of Toronto, Coursera
