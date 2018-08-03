@@ -1,6 +1,6 @@
 # Crafting Quality Code
 
-As the name suggest this course was about crafting quality code, which means the course provided an introduction to some of the concepts, principles and tools that professional programmers use in their daily work.
+As the name suggest, this course was about crafting quality code, which means that the course provided an introduction to some of the concepts, principles and tools that professional programmers use in their daily work.
 
 Intended Learning Outcomes (ILOs) of the course were: 
 * algorithm design
@@ -18,4 +18,5 @@ For curious minded, see the Best Practices for Scientific Computing journal pape
 Wilson, G., Aruliah, D.A., Brown, C.T., Chue Hong, N.P., Davis, M., Guy, R.T., Haddock, S.H.D., Huff, K.D., Mitchell, I.M., Plumbley, M.D., Waugh, B., White, E.P., Wilson, P.: Best Practices for Scientific Comput- ing. PLoS Biol 12(1), e1001745 (01 2014), http://dx.doi.org/10.1371/ journal.pbio.1001745
 
 ### Certificate:
-![alt text](https://github.com/eblerim/courses/blob/master/crafting_quality_code/certificate.jpg “Blerim Emruli’s certificate for Crafting Quality Code authorized by University of Toronto and issued by Udacity.")
+
+![alt text](https://github.com/eblerim/courses/blob/master/crafting_quality_code/certificate.jpg "Blerim Emruli’s certificate for Crafting Quality Code authorized by University of Toronto and issued by Udacity.")
